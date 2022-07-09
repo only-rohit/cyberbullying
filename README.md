@@ -19,7 +19,6 @@ including standard, as well as ensemble methods.
 - Data Cleaning, Preprocessing (Word Tokenization, Stemming, TF-IDF), and Resampling was done before application of any of the Machine Learning algorithms used.
 
 ## Methods Used
-- Gaussian Naive Bayes
 - Logistic Regression
 - Decision Tree Classifier
 - Adaboost Classifier
